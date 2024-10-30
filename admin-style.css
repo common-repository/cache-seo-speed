@@ -1,0 +1,6 @@
+.wp-has-submenu.toplevel_page_cache-seo-speed:not(.wp-has-current-submenu){
+	border-right:5px solid #f45c13;
+	background-color: #222;
+}.wp-has-submenu.toplevel_page_cache-seo-speed:not(.wp-has-current-submenu) .wp-menu-name{
+	color: #f45c13;
+}
